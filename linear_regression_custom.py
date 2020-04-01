@@ -76,7 +76,7 @@ def r_squared():
     return r_sq
     
 
-x, y = create_dataset(100, 50, 2, 'neg')
+x, y = create_dataset(200, 50, 2, 'pos')
 ##x = data_from_quandl('CHRIS/CME_ES1')
 ##y = data_from_quandl('CHRIS/CME_Z1')
 
